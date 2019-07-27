@@ -1,1 +1,0 @@
-('#animated-img1').addClass('animated bounceOutLeft');
