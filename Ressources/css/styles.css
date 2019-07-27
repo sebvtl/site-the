@@ -107,7 +107,7 @@ section {
 /* HEADER
 ================================================================== */
 header {
-    background-image:linear-gradient(rgba(0,242,96,0.4),rgba(7,117,230,0.6)),url(../images/thea.jpg);
+    background-image:linear-gradient(rgba(0,242,96,0.4),rgba(7,117,230,0.6)),url(../images/thea-bg.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
